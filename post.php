@@ -31,7 +31,7 @@ if(isset($_GET['title']) && isset($_GET['html'])){
 
 $data_post = json_encode($data);
 
-$url = "$domain/ghost/api/v3/admin/posts/?source=html";
+$url = "$domain/ghost/api/v4/admin/posts/?source=html";
 $headers = ['Content-Type: application/json'];
 
     $ch = curl_init();

@@ -1,5 +1,7 @@
 # Server Side cookie file
 ghost-cookie.txt
+app.js
+post.html
 
 # Editors
 .vscode/*

@@ -19,7 +19,7 @@ include 'config.php';
 
     $data_post = json_encode($data);
 
-    $url = "$domain/ghost/api/v3/admin/session";
+    $url = "$domain/ghost/api/v4/admin/session";
     $headers = ['Content-Type: application/json'];
 
     $ch = curl_init();

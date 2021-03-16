@@ -30,8 +30,8 @@ https://api.example.com/post.php?title=Post%20via%20API&html=Hello%20world%20My%
 
 ## Ghost Admin API 📦
 
-- User Authentication - <https://ghost.org/docs/api/v3/admin/#user-authentication>
-- Create Post - <https://ghost.org/docs/api/v3/admin/#creating-a-post>
+- User Authentication - <https://ghost.org/docs/admin-api/#user-authentication>
+- Create Post - <https://ghost.org/docs/admin-api/#creating-a-post>
 
 ## LICENSE ✅
 

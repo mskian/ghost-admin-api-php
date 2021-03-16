@@ -2,8 +2,8 @@
 
 ## Admin Settings ##
 
-## Ghost ADMIN API - https://ghost.org/docs/api/v3/admin/
-## Create Post via API - https://ghost.org/docs/api/v3/admin/#creating-a-post
+## Ghost ADMIN API - https://ghost.org/docs/admin-api/
+## Create Post via API - https://ghost.org/docs/admin-api/#creating-a-post
 
 ## Your Ghost Site Domain URL
 $domain = "http://localhost:2368";
@@ -15,6 +15,6 @@ $tags = ['Public Post', 'Hello'];
 $status = "draft";
 
 ## Enter your Ghost Admin Login Details For Generate Session - https://api.example.com/ghlogin.php
-## More info - https://ghost.org/docs/api/v3/admin/#user-authentication
+## More info - https://ghost.org/docs/admin-api/#user-authentication
 $username = "someone@example.com";
 $password = "mysecurepassword";
